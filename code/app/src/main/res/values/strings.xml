@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">买卡网实时监控</string>
+    <string name="hello_world">暂无数据</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_my_activity">my_activity</string>
+    <string name="title_activity_activity__gallery">Activity_Gallery</string>
+    <string name="btn_getServerInfo">服务器信息</string>
+    <string name="btn_getOrderStat">订单统计</string>
+</resources>
